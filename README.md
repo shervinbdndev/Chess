@@ -1,6 +1,6 @@
 # chess
 
-<img src="https://github.com/shervinbdndev/blob/master/chess/preview/chess.gif">
+<img src="https://github.com/shervinbdndev/chess/blob/master/preview/chess.gif">
 
 A new Flutter project.
 
