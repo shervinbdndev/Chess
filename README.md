@@ -1,6 +1,6 @@
 # chess
 
-![](https://raw.githubusercontent.com/shervinbdndev/chess/preview/chess.gif)
+<img src="https://github.com/shervinbdndev/blob/master/chess/preview/chess.gif">
 
 A new Flutter project.
 
